@@ -1,0 +1,20 @@
+--[[
+    
+.__  ___ ___      ___.    
+|__|/   |   \ __ _\_ |__  
+|  /    ~    \  |  \ __ \ 
+|  \    Y    /  |  / \_\ \
+|__|\___|_  /|____/|___  /
+          \/           \/ 
+   Supported games:
+
+   Ninja Legends
+   More soon..
+
+   Credits:
+
+   Decrypted - Script
+   Detorius (sorry if name spelled wrong) - UI
+--]]
+
+loadstring(game:HttpGet("https://github.com/DecryptedDev/iHub/blob/main/script.lua"), true)
